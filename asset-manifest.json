@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tv-series-api-with-react/static/css/main.0c1092d8.css",
+    "main.js": "/tv-series-api-with-react/static/js/main.12ed4bb8.js",
+    "static/js/787.8427eb89.chunk.js": "/tv-series-api-with-react/static/js/787.8427eb89.chunk.js",
+    "index.html": "/tv-series-api-with-react/index.html",
+    "main.0c1092d8.css.map": "/tv-series-api-with-react/static/css/main.0c1092d8.css.map",
+    "main.12ed4bb8.js.map": "/tv-series-api-with-react/static/js/main.12ed4bb8.js.map",
+    "787.8427eb89.chunk.js.map": "/tv-series-api-with-react/static/js/787.8427eb89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c1092d8.css",
+    "static/js/main.12ed4bb8.js"
+  ]
+}
